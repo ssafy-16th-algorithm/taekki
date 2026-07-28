@@ -36,7 +36,4 @@ ssafy_16th_algoritm/
 ```
 
 ## Commit Convention
-- [BOJ] 문제번호 문제 풀이
-- [SWEA] 문제번호 문제 풀이
-- [PGS] 문제명 문제 풀이
-- [CDT] 문제명 문제 풀이
+- Solve : [문제명] 문제 풀이 [BOJ, SWEA, PGS, CDT, ...]
