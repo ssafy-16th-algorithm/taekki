@@ -1,7 +1,7 @@
 // 프로그래머스 섬 연결하기
 import java.util.*;
 
-public class pgs_섬연결하기 {
+public class PGS_섬연결하기 {
     int[] parent;
     
     public int solution(int n, int[][] costs) {
